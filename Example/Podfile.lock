@@ -1,0 +1,16 @@
+PODS:
+  - MKMediaEngine (0.1.0)
+
+DEPENDENCIES:
+  - MKMediaEngine (from `../`)
+
+EXTERNAL SOURCES:
+  MKMediaEngine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MKMediaEngine: bd2935acf75592989e9539fda73a1e312b3c5902
+
+PODFILE CHECKSUM: da8428a10291d46197a651eef874fdcc9fc41ac2
+
+COCOAPODS: 1.8.4
